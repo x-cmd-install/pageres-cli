@@ -21,7 +21,6 @@ x install pageres-cli
 
 - **Latest**: `v9.0.0` (2025-09-09)
 - **Last commit**: 2025-09-09
-- **Published**: 2025-09-09T22:05:47Z
 
 ## Popularity
 
@@ -64,8 +63,8 @@ Lowest-scoring checks:
 Install metadata for pageres-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pageres-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pageres-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pageres-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:01:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:27Z._
